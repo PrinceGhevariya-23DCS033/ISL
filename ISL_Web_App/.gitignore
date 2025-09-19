@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Python virtual environment
+.venv/
+
+# IDE settings
+.vscode/
+
+# Build artifacts
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.h5
